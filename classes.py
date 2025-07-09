@@ -22,6 +22,10 @@ class MitarbeiterSkills:
             f"    {technologien_str}"
         )
     
+    def __str__(self):
+        technologien_str = ", ".join([t.name for t in self.technologien])
+        return f"{self.name} ({technologien_str})"
+    
     def to_embedding(self):
         # Konvertiere die Technologien in eine Liste von Strings
         technologien_str = [t.name for t in self.technologien]

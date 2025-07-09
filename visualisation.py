@@ -1,50 +1,97 @@
 import numpy as np
-import matplotlib.pyplot as plt
+import plotly.express as px
+import plotly.graph_objects as go
 
-def plot_with_query_pca(vectors, query_vector, highlight_indices=None):
+def plot_with_query_pca(vectors, query_vector, highlight_indices=None, hover_texts=None):
     from sklearn.decomposition import PCA
-
     all_embeddings = np.vstack([vectors, query_vector])
-
     pca = PCA(n_components=2)
     reduced_all = pca.fit_transform(all_embeddings)
-
     reduced_embeddings = reduced_all[:-1]
-    query_tsne = reduced_all[-1]
-    
-    plt.figure(figsize=(8, 5))
-    # Plot all points
-    plt.scatter(reduced_embeddings[:, 0], reduced_embeddings[:, 1], s=10, label="Alle Datenpunkte")
-    # Highlight found points if provided
+    query_2d = reduced_all[-1]
+    if hover_texts is None:
+        hover_texts = [str(i) for i in range(len(reduced_embeddings))]
+    # Create base scatter
+    fig = go.Figure()
+    fig.add_trace(go.Scatter(
+        x=reduced_embeddings[:, 0], y=reduced_embeddings[:, 1],
+        mode='markers',
+        marker=dict(size=10, color='blue'),
+        text=hover_texts,
+        name='Alle Datenpunkte',
+        hoverinfo='text',
+        showlegend=True
+    ))
+    # Highlight found points
     if highlight_indices is not None and len(highlight_indices) > 0:
-        plt.scatter(reduced_embeddings[highlight_indices, 0], reduced_embeddings[highlight_indices, 1], 
-                    s=80, c="orange", marker="o", edgecolor="black", linewidths=1.5, label="Gefundene Punkte")
-    # Plot query vector
-    plt.scatter(query_tsne[0], query_tsne[1], s=200, c="red", marker="*", edgecolor="black", linewidths=1.5, label="Query-Vektor")
-    plt.title("Visualisierung der Embeddings mit PCA")
-    plt.legend()
-    plt.show()
+        fig.add_trace(go.Scatter(
+            x=reduced_embeddings[highlight_indices, 0], y=reduced_embeddings[highlight_indices, 1],
+            mode='markers',
+            marker=dict(size=16, color='orange', line=dict(width=2, color='black')),
+            text=[hover_texts[i] for i in highlight_indices],
+            name='Gefundene Punkte',
+            hoverinfo='text',
+            showlegend=True
+        ))
+    # Query vector
+    fig.add_trace(go.Scatter(
+        x=[query_2d[0]], y=[query_2d[1]],
+        mode='markers',
+        marker=dict(size=24, color='red', symbol='star', line=dict(width=2, color='black')),
+        text=['Query-Vektor'],
+        name='Query-Vektor',
+        hoverinfo='text',
+        showlegend=True
+    ))
+    fig.update_layout(title='Visualisierung der Embeddings mit PCA', width=800, height=500)
+    fig.show()
 
-def plot_with_query_umap(vectors, query_vector, highlight_indices=None):
+def plot_with_query_umap(vectors, query_vector, highlight_indices=None, hover_texts=None):
     from umap import UMAP
-
     all_embeddings = np.vstack([vectors, query_vector])
-
     umap = UMAP(n_components=2, init="random", random_state=0)
     reduced_all = umap.fit_transform(all_embeddings)
-
     reduced_embeddings = reduced_all[:-1]
-    query_tsne = reduced_all[-1]
-    
-    plt.figure(figsize=(8, 5))
-    # Plot all points
-    plt.scatter(reduced_embeddings[:, 0], reduced_embeddings[:, 1], s=10, label="Alle Datenpunkte")
-    # Highlight found points if provided
+    query_2d = reduced_all[-1]
+    if hover_texts is None:
+        hover_texts = [str(i) for i in range(len(reduced_embeddings))]
+    fig = go.Figure()
+    fig.add_trace(go.Scatter(
+        x=reduced_embeddings[:, 0], y=reduced_embeddings[:, 1],
+        mode='markers',
+        marker=dict(size=10, color='blue'),
+        text=hover_texts,
+        name='Alle Datenpunkte',
+        hoverinfo='text',
+        showlegend=True
+    ))
     if highlight_indices is not None and len(highlight_indices) > 0:
-        plt.scatter(reduced_embeddings[highlight_indices, 0], reduced_embeddings[highlight_indices, 1], 
-                    s=80, c="orange", marker="o", edgecolor="black", linewidths=1.5, label="Gefundene Punkte")
-    # Plot query vector
-    plt.scatter(query_tsne[0], query_tsne[1], s=200, c="red", marker="*", edgecolor="black", linewidths=1.5, label="Query-Vektor")
-    plt.title("Visualisierung der Embeddings mit UMAP")
-    plt.legend()
-    plt.show()
+        fig.add_trace(go.Scatter(
+            x=reduced_embeddings[highlight_indices, 0], y=reduced_embeddings[highlight_indices, 1],
+            mode='markers',
+            marker=dict(size=16, color='orange', line=dict(width=2, color='black')),
+            text=[hover_texts[i] for i in highlight_indices],
+            name='Gefundene Punkte',
+            hoverinfo='text',
+            showlegend=True
+        ))
+    fig.add_trace(go.Scatter(
+        x=[query_2d[0]], y=[query_2d[1]],
+        mode='markers',
+        marker=dict(size=24, color='red', symbol='star', line=dict(width=2, color='black')),
+        text=['Query-Vektor'],
+        name='Query-Vektor',
+        hoverinfo='text',
+        showlegend=True
+    ))
+    fig.update_layout(title='Visualisierung der Embeddings mit UMAP', width=800, height=500)
+    fig.show()
+
+def plot_with_query(vectors, query_vector, highlight_indices=None, hover_texts=None, method='umap'):
+    try:
+        if method == 'umap':
+            plot_with_query_umap(vectors, query_vector, highlight_indices, hover_texts)
+        else:
+            plot_with_query_pca(vectors, query_vector, highlight_indices, hover_texts)
+    except ImportError:
+        plot_with_query_pca(vectors, query_vector, highlight_indices, hover_texts)
