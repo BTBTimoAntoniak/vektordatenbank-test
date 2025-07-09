@@ -1,0 +1,3866 @@
+[
+  {
+    "name": "Laura Müller",
+    "technologien": [
+      {
+        "name": "AWS",
+        "letzte_verwendung": 371
+      },
+      {
+        "name": "GitHub",
+        "letzte_verwendung": 114
+      }
+    ]
+  },
+  {
+    "name": "Maximilian Schmidt",
+    "technologien": [
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 259
+      },
+      {
+        "name": "Angular",
+        "letzte_verwendung": 442
+      },
+      {
+        "name": "Angular",
+        "letzte_verwendung": 661
+      }
+    ]
+  },
+  {
+    "name": "Anna Fischer",
+    "technologien": [
+      {
+        "name": "Angular",
+        "letzte_verwendung": 173
+      },
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 664
+      }
+    ]
+  },
+  {
+    "name": "Jonas Wagner",
+    "technologien": [
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 594
+      },
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 269
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 249
+      }
+    ]
+  },
+  {
+    "name": "Sofia Hofmann",
+    "technologien": [
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 177
+      }
+    ]
+  },
+  {
+    "name": "Paul Klein",
+    "technologien": [
+      {
+        "name": "Node.js",
+        "letzte_verwendung": 53
+      },
+      {
+        "name": "Bitbucket",
+        "letzte_verwendung": 689
+      }
+    ]
+  },
+  {
+    "name": "Emma Lehmann",
+    "technologien": [
+      {
+        "name": "Node.js",
+        "letzte_verwendung": 313
+      },
+      {
+        "name": "Vue.js",
+        "letzte_verwendung": 107
+      },
+      {
+        "name": "GitHub",
+        "letzte_verwendung": 622
+      },
+      {
+        "name": "Go",
+        "letzte_verwendung": 465
+      },
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 440
+      }
+    ]
+  },
+  {
+    "name": "Liam Becker",
+    "technologien": [
+      {
+        "name": "React",
+        "letzte_verwendung": 464
+      },
+      {
+        "name": "C#",
+        "letzte_verwendung": 224
+      },
+      {
+        "name": "TensorFlow",
+        "letzte_verwendung": 373
+      },
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 575
+      }
+    ]
+  },
+  {
+    "name": "Mia Krüger",
+    "technologien": [
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 691
+      },
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 3
+      },
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 726
+      },
+      {
+        "name": "PyTorch",
+        "letzte_verwendung": 223
+      }
+    ]
+  },
+  {
+    "name": "Noah Wolf",
+    "technologien": [
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 478
+      },
+      {
+        "name": "React",
+        "letzte_verwendung": 379
+      },
+      {
+        "name": "Flask",
+        "letzte_verwendung": 729
+      },
+      {
+        "name": "Node.js",
+        "letzte_verwendung": 100
+      }
+    ]
+  },
+  {
+    "name": "Emilia Schröder",
+    "technologien": [
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 574
+      },
+      {
+        "name": "Rust",
+        "letzte_verwendung": 320
+      }
+    ]
+  },
+  {
+    "name": "Ben Richter",
+    "technologien": [
+      {
+        "name": "Go",
+        "letzte_verwendung": 77
+      },
+      {
+        "name": "Flask",
+        "letzte_verwendung": 540
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 234
+      },
+      {
+        "name": "Power BI",
+        "letzte_verwendung": 561
+      },
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 16
+      }
+    ]
+  },
+  {
+    "name": "Lea Hofmann",
+    "technologien": [
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 138
+      },
+      {
+        "name": "Node.js",
+        "letzte_verwendung": 663
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 36
+      },
+      {
+        "name": "NumPy",
+        "letzte_verwendung": 274
+      }
+    ]
+  },
+  {
+    "name": "Elias Hartmann",
+    "technologien": [
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 378
+      },
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 23
+      }
+    ]
+  },
+  {
+    "name": "Lina Bauer",
+    "technologien": [
+      {
+        "name": "Confluence",
+        "letzte_verwendung": 533
+      },
+      {
+        "name": "Go",
+        "letzte_verwendung": 455
+      },
+      {
+        "name": "Django",
+        "letzte_verwendung": 544
+      }
+    ]
+  },
+  {
+    "name": "Finn Neumann",
+    "technologien": [
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 364
+      },
+      {
+        "name": "Rust",
+        "letzte_verwendung": 635
+      }
+    ]
+  },
+  {
+    "name": "Maya Weber",
+    "technologien": [
+      {
+        "name": "Ansible",
+        "letzte_verwendung": 53
+      },
+      {
+        "name": "Keras",
+        "letzte_verwendung": 697
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 404
+      }
+    ]
+  },
+  {
+    "name": "Julian Zimmermann",
+    "technologien": [
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 231
+      },
+      {
+        "name": "Tableau",
+        "letzte_verwendung": 222
+      }
+    ]
+  },
+  {
+    "name": "Marie Voigt",
+    "technologien": [
+      {
+        "name": "PyTorch",
+        "letzte_verwendung": 432
+      },
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 89
+      },
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 71
+      }
+    ]
+  },
+  {
+    "name": "Tim Schulz",
+    "technologien": [
+      {
+        "name": "Node.js",
+        "letzte_verwendung": 609
+      },
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 191
+      },
+      {
+        "name": "PyTorch",
+        "letzte_verwendung": 262
+      },
+      {
+        "name": "Rust",
+        "letzte_verwendung": 410
+      }
+    ]
+  },
+  {
+    "name": "Hannah König",
+    "technologien": [
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 292
+      },
+      {
+        "name": "SQL",
+        "letzte_verwendung": 110
+      },
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 121
+      },
+      {
+        "name": "PyTorch",
+        "letzte_verwendung": 615
+      },
+      {
+        "name": "React",
+        "letzte_verwendung": 422
+      }
+    ]
+  },
+  {
+    "name": "Luca Braun",
+    "technologien": [
+      {
+        "name": "Angular",
+        "letzte_verwendung": 570
+      },
+      {
+        "name": "Python",
+        "letzte_verwendung": 701
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 1
+      }
+    ]
+  },
+  {
+    "name": "Lara Seidel",
+    "technologien": [
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 87
+      }
+    ]
+  },
+  {
+    "name": "Niklas Keller",
+    "technologien": [
+      {
+        "name": "Keras",
+        "letzte_verwendung": 725
+      },
+      {
+        "name": "Scikit-learn",
+        "letzte_verwendung": 321
+      },
+      {
+        "name": "Confluence",
+        "letzte_verwendung": 363
+      }
+    ]
+  },
+  {
+    "name": "Leon Schneider",
+    "technologien": [
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 432
+      },
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 600
+      },
+      {
+        "name": "Keras",
+        "letzte_verwendung": 169
+      },
+      {
+        "name": "Azure",
+        "letzte_verwendung": 428
+      }
+    ]
+  },
+  {
+    "name": "Clara Fischer",
+    "technologien": [
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 475
+      },
+      {
+        "name": "Java",
+        "letzte_verwendung": 509
+      },
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 388
+      },
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 141
+      },
+      {
+        "name": "Unity",
+        "letzte_verwendung": 257
+      }
+    ]
+  },
+  {
+    "name": "Tom Weiß",
+    "technologien": [
+      {
+        "name": "Keras",
+        "letzte_verwendung": 396
+      },
+      {
+        "name": "PHP",
+        "letzte_verwendung": 246
+      },
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 710
+      },
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 627
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 126
+      }
+    ]
+  },
+  {
+    "name": "Sophia Maier",
+    "technologien": [
+      {
+        "name": "Go",
+        "letzte_verwendung": 240
+      },
+      {
+        "name": "Keras",
+        "letzte_verwendung": 726
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 311
+      },
+      {
+        "name": "SQL",
+        "letzte_verwendung": 595
+      }
+    ]
+  },
+  {
+    "name": "Felix Hoffmann",
+    "technologien": [
+      {
+        "name": "NumPy",
+        "letzte_verwendung": 168
+      },
+      {
+        "name": "TensorFlow",
+        "letzte_verwendung": 610
+      },
+      {
+        "name": "Ansible",
+        "letzte_verwendung": 96
+      },
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 123
+      }
+    ]
+  },
+  {
+    "name": "Elena Bauer",
+    "technologien": [
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 558
+      },
+      {
+        "name": "NumPy",
+        "letzte_verwendung": 257
+      }
+    ]
+  },
+  {
+    "name": "Markus Müller",
+    "technologien": [
+      {
+        "name": "MySQL",
+        "letzte_verwendung": 395
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 345
+      },
+      {
+        "name": "MySQL",
+        "letzte_verwendung": 42
+      },
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 352
+      }
+    ]
+  },
+  {
+    "name": "Sophie Schneider",
+    "technologien": [
+      {
+        "name": "Scikit-learn",
+        "letzte_verwendung": 708
+      },
+      {
+        "name": "PHP",
+        "letzte_verwendung": 350
+      }
+    ]
+  },
+  {
+    "name": "Lukas Fischer",
+    "technologien": [
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 219
+      }
+    ]
+  },
+  {
+    "name": "Anna Weber",
+    "technologien": [
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 309
+      }
+    ]
+  },
+  {
+    "name": "Paul Wagner",
+    "technologien": [
+      {
+        "name": "Kotlin",
+        "letzte_verwendung": 210
+      },
+      {
+        "name": "Angular",
+        "letzte_verwendung": 345
+      }
+    ]
+  },
+  {
+    "name": "Laura Becker",
+    "technologien": [
+      {
+        "name": "Docker",
+        "letzte_verwendung": 271
+      },
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 138
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 16
+      },
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 579
+      }
+    ]
+  },
+  {
+    "name": "Tim Schulz",
+    "technologien": [
+      {
+        "name": "PHP",
+        "letzte_verwendung": 290
+      }
+    ]
+  },
+  {
+    "name": "Marie Hoffmann",
+    "technologien": [
+      {
+        "name": "Ansible",
+        "letzte_verwendung": 687
+      },
+      {
+        "name": "Node.js",
+        "letzte_verwendung": 105
+      },
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 131
+      }
+    ]
+  },
+  {
+    "name": "Felix Meyer",
+    "technologien": [
+      {
+        "name": "Scikit-learn",
+        "letzte_verwendung": 535
+      },
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 533
+      },
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 402
+      },
+      {
+        "name": "Kotlin",
+        "letzte_verwendung": 361
+      },
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 22
+      }
+    ]
+  },
+  {
+    "name": "Lena Richter",
+    "technologien": [
+      {
+        "name": "Go",
+        "letzte_verwendung": 298
+      },
+      {
+        "name": "GitHub",
+        "letzte_verwendung": 643
+      },
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 535
+      }
+    ]
+  },
+  {
+    "name": "Jonas Klein",
+    "technologien": [
+      {
+        "name": "React",
+        "letzte_verwendung": 379
+      },
+      {
+        "name": "TensorFlow",
+        "letzte_verwendung": 17
+      }
+    ]
+  },
+  {
+    "name": "Emily Koch",
+    "technologien": [
+      {
+        "name": "NumPy",
+        "letzte_verwendung": 534
+      },
+      {
+        "name": "Tableau",
+        "letzte_verwendung": 117
+      }
+    ]
+  },
+  {
+    "name": "Nico Wolf",
+    "technologien": [
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 29
+      }
+    ]
+  },
+  {
+    "name": "Julia Schröder",
+    "technologien": [
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 370
+      }
+    ]
+  },
+  {
+    "name": "Leon Braun",
+    "technologien": [
+      {
+        "name": "Python",
+        "letzte_verwendung": 209
+      }
+    ]
+  },
+  {
+    "name": "Sarah Hartmann",
+    "technologien": [
+      {
+        "name": "Power BI",
+        "letzte_verwendung": 146
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 0
+      },
+      {
+        "name": "Tableau",
+        "letzte_verwendung": 532
+      }
+    ]
+  },
+  {
+    "name": "Max Neumann",
+    "technologien": [
+      {
+        "name": "Confluence",
+        "letzte_verwendung": 383
+      },
+      {
+        "name": "Pandas",
+        "letzte_verwendung": 355
+      },
+      {
+        "name": "Scikit-learn",
+        "letzte_verwendung": 58
+      },
+      {
+        "name": "Go",
+        "letzte_verwendung": 38
+      },
+      {
+        "name": "PyTorch",
+        "letzte_verwendung": 150
+      }
+    ]
+  },
+  {
+    "name": "Lisa Zimmermann",
+    "technologien": [
+      {
+        "name": "Confluence",
+        "letzte_verwendung": 614
+      },
+      {
+        "name": "Pandas",
+        "letzte_verwendung": 600
+      }
+    ]
+  },
+  {
+    "name": "Tom Krause",
+    "technologien": [
+      {
+        "name": "Django",
+        "letzte_verwendung": 16
+      },
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 459
+      }
+    ]
+  },
+  {
+    "name": "Emma Schmitt",
+    "technologien": [
+      {
+        "name": "Docker",
+        "letzte_verwendung": 367
+      },
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 296
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 68
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 116
+      },
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 300
+      }
+    ]
+  },
+  {
+    "name": "Anton Lehmann",
+    "technologien": [
+      {
+        "name": "Flask",
+        "letzte_verwendung": 83
+      },
+      {
+        "name": "Unity",
+        "letzte_verwendung": 415
+      },
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 220
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 5
+      },
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 390
+      }
+    ]
+  },
+  {
+    "name": "Mia Seidel",
+    "technologien": [
+      {
+        "name": "Kotlin",
+        "letzte_verwendung": 33
+      },
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 29
+      }
+    ]
+  },
+  {
+    "name": "Ben Frank",
+    "technologien": [
+      {
+        "name": "Power BI",
+        "letzte_verwendung": 491
+      }
+    ]
+  },
+  {
+    "name": "Hannah Bauer",
+    "technologien": [
+      {
+        "name": "Keras",
+        "letzte_verwendung": 643
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 11
+      },
+      {
+        "name": "NumPy",
+        "letzte_verwendung": 96
+      },
+      {
+        "name": "Kotlin",
+        "letzte_verwendung": 599
+      }
+    ]
+  },
+  {
+    "name": "Luis Zimmer",
+    "technologien": [
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 65
+      },
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 348
+      },
+      {
+        "name": "Node.js",
+        "letzte_verwendung": 304
+      },
+      {
+        "name": "MySQL",
+        "letzte_verwendung": 503
+      },
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 201
+      }
+    ]
+  },
+  {
+    "name": "Greta Ludwig",
+    "technologien": [
+      {
+        "name": "AWS",
+        "letzte_verwendung": 23
+      },
+      {
+        "name": "Ansible",
+        "letzte_verwendung": 563
+      },
+      {
+        "name": "Bitbucket",
+        "letzte_verwendung": 722
+      },
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 642
+      },
+      {
+        "name": "Python",
+        "letzte_verwendung": 450
+      }
+    ]
+  },
+  {
+    "name": "Noah Meier",
+    "technologien": [
+      {
+        "name": "Bitbucket",
+        "letzte_verwendung": 496
+      },
+      {
+        "name": "AWS",
+        "letzte_verwendung": 380
+      },
+      {
+        "name": "Pandas",
+        "letzte_verwendung": 387
+      },
+      {
+        "name": "Unity",
+        "letzte_verwendung": 220
+      },
+      {
+        "name": "Angular",
+        "letzte_verwendung": 311
+      }
+    ]
+  },
+  {
+    "name": "Laura Schwarz",
+    "technologien": [
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 304
+      },
+      {
+        "name": "MySQL",
+        "letzte_verwendung": 382
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 669
+      },
+      {
+        "name": "Node.js",
+        "letzte_verwendung": 482
+      },
+      {
+        "name": "Ansible",
+        "letzte_verwendung": 645
+      }
+    ]
+  },
+  {
+    "name": "Finn Böhm",
+    "technologien": [
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 295
+      },
+      {
+        "name": "C#",
+        "letzte_verwendung": 726
+      },
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 534
+      },
+      {
+        "name": "Django",
+        "letzte_verwendung": 91
+      }
+    ]
+  },
+  {
+    "name": "Mila Vogel",
+    "technologien": [
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 589
+      },
+      {
+        "name": "Django",
+        "letzte_verwendung": 327
+      },
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 243
+      },
+      {
+        "name": "NumPy",
+        "letzte_verwendung": 55
+      },
+      {
+        "name": "Docker",
+        "letzte_verwendung": 18
+      }
+    ]
+  },
+  {
+    "name": "Jan Peters",
+    "technologien": [
+      {
+        "name": "React",
+        "letzte_verwendung": 660
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 287
+      },
+      {
+        "name": "Kubernetes",
+        "letzte_verwendung": 503
+      }
+    ]
+  },
+  {
+    "name": "Clara Scholz",
+    "technologien": [
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 615
+      }
+    ]
+  },
+  {
+    "name": "Oli Hansen",
+    "technologien": [
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 98
+      },
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 273
+      }
+    ]
+  },
+  {
+    "name": "Nina Lange",
+    "technologien": [
+      {
+        "name": "Redis",
+        "letzte_verwendung": 61
+      },
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 613
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 446
+      },
+      {
+        "name": "Pandas",
+        "letzte_verwendung": 88
+      }
+    ]
+  },
+  {
+    "name": "Timo Schuster",
+    "technologien": [
+      {
+        "name": "AWS",
+        "letzte_verwendung": 428
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 726
+      },
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 225
+      }
+    ]
+  },
+  {
+    "name": "Lilly Busch",
+    "technologien": [
+      {
+        "name": "Git",
+        "letzte_verwendung": 287
+      }
+    ]
+  },
+  {
+    "name": "Pia Ziegler",
+    "technologien": [
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 676
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 596
+      },
+      {
+        "name": "Power BI",
+        "letzte_verwendung": 221
+      },
+      {
+        "name": "Kubernetes",
+        "letzte_verwendung": 698
+      },
+      {
+        "name": "Bitbucket",
+        "letzte_verwendung": 109
+      }
+    ]
+  },
+  {
+    "name": "Janina Engel",
+    "technologien": [
+      {
+        "name": "Python",
+        "letzte_verwendung": 375
+      },
+      {
+        "name": "Go",
+        "letzte_verwendung": 54
+      },
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 407
+      }
+    ]
+  },
+  {
+    "name": "Erik Wirth",
+    "technologien": [
+      {
+        "name": "Bitbucket",
+        "letzte_verwendung": 152
+      },
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 387
+      },
+      {
+        "name": "Kotlin",
+        "letzte_verwendung": 90
+      }
+    ]
+  },
+  {
+    "name": "Ava König",
+    "technologien": [
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 302
+      },
+      {
+        "name": "Django",
+        "letzte_verwendung": 384
+      },
+      {
+        "name": "Unity",
+        "letzte_verwendung": 206
+      },
+      {
+        "name": "React",
+        "letzte_verwendung": 449
+      }
+    ]
+  },
+  {
+    "name": "Linus Bach",
+    "technologien": [
+      {
+        "name": "React",
+        "letzte_verwendung": 331
+      }
+    ]
+  },
+  {
+    "name": "Paulina Albrecht",
+    "technologien": [
+      {
+        "name": "NumPy",
+        "letzte_verwendung": 53
+      },
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 620
+      },
+      {
+        "name": "Bitbucket",
+        "letzte_verwendung": 351
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 53
+      },
+      {
+        "name": "Angular",
+        "letzte_verwendung": 414
+      }
+    ]
+  },
+  {
+    "name": "Leonhard Maier",
+    "technologien": [
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 472
+      },
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 678
+      },
+      {
+        "name": "Docker",
+        "letzte_verwendung": 12
+      },
+      {
+        "name": "Rust",
+        "letzte_verwendung": 547
+      },
+      {
+        "name": "Python",
+        "letzte_verwendung": 506
+      }
+    ]
+  },
+  {
+    "name": "Jana Dietrich",
+    "technologien": [
+      {
+        "name": "Flask",
+        "letzte_verwendung": 604
+      },
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 91
+      },
+      {
+        "name": "MySQL",
+        "letzte_verwendung": 292
+      },
+      {
+        "name": "Bitbucket",
+        "letzte_verwendung": 214
+      }
+    ]
+  },
+  {
+    "name": "Dominik Winter",
+    "technologien": [
+      {
+        "name": "AWS",
+        "letzte_verwendung": 448
+      },
+      {
+        "name": "Kotlin",
+        "letzte_verwendung": 585
+      },
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 382
+      }
+    ]
+  },
+  {
+    "name": "Tina Kuhn",
+    "technologien": [
+      {
+        "name": "React",
+        "letzte_verwendung": 406
+      },
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 596
+      },
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 515
+      }
+    ]
+  },
+  {
+    "name": "Moritz Walter",
+    "technologien": [
+      {
+        "name": "Vue.js",
+        "letzte_verwendung": 366
+      },
+      {
+        "name": "Vue.js",
+        "letzte_verwendung": 455
+      }
+    ]
+  },
+  {
+    "name": "Jule Simon",
+    "technologien": [
+      {
+        "name": "Python",
+        "letzte_verwendung": 531
+      }
+    ]
+  },
+  {
+    "name": "Kay Fuchs",
+    "technologien": [
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 350
+      },
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 184
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 281
+      },
+      {
+        "name": "Azure",
+        "letzte_verwendung": 463
+      }
+    ]
+  },
+  {
+    "name": "Yasmin Otto",
+    "technologien": [
+      {
+        "name": "Keras",
+        "letzte_verwendung": 344
+      }
+    ]
+  },
+  {
+    "name": "Robin Kramer",
+    "technologien": [
+      {
+        "name": "Keras",
+        "letzte_verwendung": 164
+      }
+    ]
+  },
+  {
+    "name": "Fiona Jäger",
+    "technologien": [
+      {
+        "name": "AWS",
+        "letzte_verwendung": 194
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 608
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 669
+      }
+    ]
+  },
+  {
+    "name": "Nils Schramm",
+    "technologien": [
+      {
+        "name": "Pandas",
+        "letzte_verwendung": 455
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 209
+      }
+    ]
+  },
+  {
+    "name": "Helena Horn",
+    "technologien": [
+      {
+        "name": "Pandas",
+        "letzte_verwendung": 419
+      }
+    ]
+  },
+  {
+    "name": "Jannik Engelmann",
+    "technologien": [
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 456
+      },
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 339
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 206
+      },
+      {
+        "name": "Python",
+        "letzte_verwendung": 461
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 266
+      }
+    ]
+  },
+  {
+    "name": "Rike Geiger",
+    "technologien": [
+      {
+        "name": "Ansible",
+        "letzte_verwendung": 501
+      },
+      {
+        "name": "C#",
+        "letzte_verwendung": 121
+      },
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 346
+      },
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 285
+      }
+    ]
+  },
+  {
+    "name": "Simon Busch",
+    "technologien": [
+      {
+        "name": "Kubernetes",
+        "letzte_verwendung": 342
+      },
+      {
+        "name": "Ansible",
+        "letzte_verwendung": 448
+      },
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 161
+      }
+    ]
+  },
+  {
+    "name": "Maurice Sturm",
+    "technologien": [
+      {
+        "name": "SQL",
+        "letzte_verwendung": 580
+      },
+      {
+        "name": "MySQL",
+        "letzte_verwendung": 500
+      },
+      {
+        "name": "Redis",
+        "letzte_verwendung": 26
+      },
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 646
+      },
+      {
+        "name": "Docker",
+        "letzte_verwendung": 14
+      }
+    ]
+  },
+  {
+    "name": "Annika Graf",
+    "technologien": [
+      {
+        "name": "Git",
+        "letzte_verwendung": 82
+      }
+    ]
+  },
+  {
+    "name": "Julian Paul",
+    "technologien": [
+      {
+        "name": "Vue.js",
+        "letzte_verwendung": 45
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 712
+      }
+    ]
+  },
+  {
+    "name": "Stefan Mayer",
+    "technologien": [
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 711
+      },
+      {
+        "name": "Power BI",
+        "letzte_verwendung": 54
+      },
+      {
+        "name": "Kubernetes",
+        "letzte_verwendung": 162
+      },
+      {
+        "name": "GitHub",
+        "letzte_verwendung": 396
+      }
+    ]
+  },
+  {
+    "name": "Alicia Brandt",
+    "technologien": [
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 728
+      },
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 604
+      },
+      {
+        "name": "Rust",
+        "letzte_verwendung": 322
+      },
+      {
+        "name": "Power BI",
+        "letzte_verwendung": 236
+      }
+    ]
+  },
+  {
+    "name": "Chris Bergmann",
+    "technologien": [
+      {
+        "name": "Ansible",
+        "letzte_verwendung": 222
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 558
+      },
+      {
+        "name": "Python",
+        "letzte_verwendung": 558
+      }
+    ]
+  },
+  {
+    "name": "Caro Günther",
+    "technologien": [
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 233
+      },
+      {
+        "name": "Redis",
+        "letzte_verwendung": 728
+      },
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 50
+      },
+      {
+        "name": "React",
+        "letzte_verwendung": 270
+      },
+      {
+        "name": "GitHub",
+        "letzte_verwendung": 54
+      }
+    ]
+  },
+  {
+    "name": "Philipp Haas",
+    "technologien": [
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 583
+      },
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 92
+      },
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 724
+      },
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 673
+      }
+    ]
+  },
+  {
+    "name": "Melanie Klein",
+    "technologien": [
+      {
+        "name": "Scikit-learn",
+        "letzte_verwendung": 623
+      },
+      {
+        "name": "PHP",
+        "letzte_verwendung": 159
+      },
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 457
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 270
+      }
+    ]
+  },
+  {
+    "name": "Henrik Vogt",
+    "technologien": [
+      {
+        "name": "Unity",
+        "letzte_verwendung": 445
+      },
+      {
+        "name": "Java",
+        "letzte_verwendung": 259
+      }
+    ]
+  },
+  {
+    "name": "Selina Bauer",
+    "technologien": [
+      {
+        "name": "Docker",
+        "letzte_verwendung": 371
+      },
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 583
+      },
+      {
+        "name": "Confluence",
+        "letzte_verwendung": 566
+      },
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 305
+      },
+      {
+        "name": "Flask",
+        "letzte_verwendung": 62
+      }
+    ]
+  },
+  {
+    "name": "Vincent Weiß",
+    "technologien": [
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 416
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 501
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 472
+      }
+    ]
+  },
+  {
+    "name": "Linda Voigt",
+    "technologien": [
+      {
+        "name": "Go",
+        "letzte_verwendung": 667
+      }
+    ]
+  },
+  {
+    "name": "Alexander Haase",
+    "technologien": [
+      {
+        "name": "Azure",
+        "letzte_verwendung": 152
+      },
+      {
+        "name": "TensorFlow",
+        "letzte_verwendung": 198
+      },
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 223
+      },
+      {
+        "name": "Unity",
+        "letzte_verwendung": 531
+      }
+    ]
+  },
+  {
+    "name": "Sara Metzger",
+    "technologien": [
+      {
+        "name": "TensorFlow",
+        "letzte_verwendung": 272
+      },
+      {
+        "name": "Kubernetes",
+        "letzte_verwendung": 39
+      }
+    ]
+  },
+  {
+    "name": "Ricardo Pfeiffer",
+    "technologien": [
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 324
+      }
+    ]
+  },
+  {
+    "name": "Diana Schubert",
+    "technologien": [
+      {
+        "name": "Pandas",
+        "letzte_verwendung": 408
+      }
+    ]
+  },
+  {
+    "name": "Cedric Kühn",
+    "technologien": [
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 567
+      }
+    ]
+  },
+  {
+    "name": "Annelie Krüger",
+    "technologien": [
+      {
+        "name": "Power BI",
+        "letzte_verwendung": 498
+      },
+      {
+        "name": "AWS",
+        "letzte_verwendung": 551
+      },
+      {
+        "name": "Rust",
+        "letzte_verwendung": 180
+      },
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 381
+      },
+      {
+        "name": "Node.js",
+        "letzte_verwendung": 392
+      }
+    ]
+  },
+  {
+    "name": "Manuel Schuster",
+    "technologien": [
+      {
+        "name": "Kubernetes",
+        "letzte_verwendung": 133
+      },
+      {
+        "name": "Java",
+        "letzte_verwendung": 396
+      },
+      {
+        "name": "Docker",
+        "letzte_verwendung": 358
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 145
+      },
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 709
+      }
+    ]
+  },
+  {
+    "name": "Tatjana Lenz",
+    "technologien": [
+      {
+        "name": "Unity",
+        "letzte_verwendung": 630
+      },
+      {
+        "name": "GitHub",
+        "letzte_verwendung": 489
+      },
+      {
+        "name": "Python",
+        "letzte_verwendung": 538
+      },
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 44
+      },
+      {
+        "name": "AWS",
+        "letzte_verwendung": 482
+      }
+    ]
+  },
+  {
+    "name": "Steffen Horn",
+    "technologien": [
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 345
+      },
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 393
+      },
+      {
+        "name": "Pandas",
+        "letzte_verwendung": 107
+      },
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 217
+      },
+      {
+        "name": "NumPy",
+        "letzte_verwendung": 142
+      }
+    ]
+  },
+  {
+    "name": "Verena Jakob",
+    "technologien": [
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 169
+      }
+    ]
+  },
+  {
+    "name": "Marcel Albrecht",
+    "technologien": [
+      {
+        "name": "Angular",
+        "letzte_verwendung": 428
+      }
+    ]
+  },
+  {
+    "name": "Leonie Sauer",
+    "technologien": [
+      {
+        "name": "Bitbucket",
+        "letzte_verwendung": 301
+      },
+      {
+        "name": "Go",
+        "letzte_verwendung": 730
+      },
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 72
+      }
+    ]
+  },
+  {
+    "name": "Raphael König",
+    "technologien": [
+      {
+        "name": "Power BI",
+        "letzte_verwendung": 323
+      },
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 320
+      },
+      {
+        "name": "C#",
+        "letzte_verwendung": 441
+      }
+    ]
+  },
+  {
+    "name": "Tanja Jahn",
+    "technologien": [
+      {
+        "name": "SQL",
+        "letzte_verwendung": 125
+      },
+      {
+        "name": "Unity",
+        "letzte_verwendung": 533
+      }
+    ]
+  },
+  {
+    "name": "Kai Köhler",
+    "technologien": [
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 707
+      }
+    ]
+  },
+  {
+    "name": "Silke Sommer",
+    "technologien": [
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 314
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 600
+      },
+      {
+        "name": "Node.js",
+        "letzte_verwendung": 385
+      },
+      {
+        "name": "Node.js",
+        "letzte_verwendung": 396
+      }
+    ]
+  },
+  {
+    "name": "Marco Arnold",
+    "technologien": [
+      {
+        "name": "Kubernetes",
+        "letzte_verwendung": 627
+      }
+    ]
+  },
+  {
+    "name": "Claudia Engel",
+    "technologien": [
+      {
+        "name": "Go",
+        "letzte_verwendung": 519
+      },
+      {
+        "name": "Bitbucket",
+        "letzte_verwendung": 312
+      }
+    ]
+  },
+  {
+    "name": "Jan Hartwig",
+    "technologien": [
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 184
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 12
+      },
+      {
+        "name": "Unity",
+        "letzte_verwendung": 419
+      },
+      {
+        "name": "Unity",
+        "letzte_verwendung": 424
+      },
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 455
+      }
+    ]
+  },
+  {
+    "name": "Miriam Sturm",
+    "technologien": [
+      {
+        "name": "Git",
+        "letzte_verwendung": 193
+      },
+      {
+        "name": "Azure",
+        "letzte_verwendung": 205
+      },
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 470
+      },
+      {
+        "name": "Kotlin",
+        "letzte_verwendung": 69
+      }
+    ]
+  },
+  {
+    "name": "Elias Heinrich",
+    "technologien": [
+      {
+        "name": "React",
+        "letzte_verwendung": 218
+      },
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 277
+      },
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 226
+      }
+    ]
+  },
+  {
+    "name": "Isabel Lang",
+    "technologien": [
+      {
+        "name": "GitHub",
+        "letzte_verwendung": 78
+      },
+      {
+        "name": "Ansible",
+        "letzte_verwendung": 185
+      },
+      {
+        "name": "Go",
+        "letzte_verwendung": 46
+      },
+      {
+        "name": "Keras",
+        "letzte_verwendung": 282
+      }
+    ]
+  },
+  {
+    "name": "Fabian Berg",
+    "technologien": [
+      {
+        "name": "Docker",
+        "letzte_verwendung": 310
+      },
+      {
+        "name": "Kotlin",
+        "letzte_verwendung": 648
+      }
+    ]
+  },
+  {
+    "name": "Eva Keller",
+    "technologien": [
+      {
+        "name": "PyTorch",
+        "letzte_verwendung": 209
+      },
+      {
+        "name": "Scikit-learn",
+        "letzte_verwendung": 226
+      },
+      {
+        "name": "Kubernetes",
+        "letzte_verwendung": 456
+      },
+      {
+        "name": "Flask",
+        "letzte_verwendung": 171
+      },
+      {
+        "name": "Java",
+        "letzte_verwendung": 620
+      }
+    ]
+  },
+  {
+    "name": "Jonathan Höfer",
+    "technologien": [
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 636
+      }
+    ]
+  },
+  {
+    "name": "Anja Vogler",
+    "technologien": [
+      {
+        "name": "Kubernetes",
+        "letzte_verwendung": 326
+      }
+    ]
+  },
+  {
+    "name": "Michael Bachmann",
+    "technologien": [
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 582
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 6
+      },
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 718
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 347
+      },
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 448
+      }
+    ]
+  },
+  {
+    "name": "Carla Pietsch",
+    "technologien": [
+      {
+        "name": "Rust",
+        "letzte_verwendung": 64
+      },
+      {
+        "name": "Ansible",
+        "letzte_verwendung": 680
+      }
+    ]
+  },
+  {
+    "name": "Maximilian Urban",
+    "technologien": [
+      {
+        "name": "AWS",
+        "letzte_verwendung": 692
+      }
+    ]
+  },
+  {
+    "name": "Franziska Wolff",
+    "technologien": [
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 530
+      },
+      {
+        "name": "Kotlin",
+        "letzte_verwendung": 718
+      }
+    ]
+  },
+  {
+    "name": "Rafael Blum",
+    "technologien": [
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 547
+      },
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 96
+      }
+    ]
+  },
+  {
+    "name": "Lotte Kaiser",
+    "technologien": [
+      {
+        "name": "Git",
+        "letzte_verwendung": 709
+      },
+      {
+        "name": "TensorFlow",
+        "letzte_verwendung": 609
+      },
+      {
+        "name": "Vue.js",
+        "letzte_verwendung": 658
+      },
+      {
+        "name": "TensorFlow",
+        "letzte_verwendung": 327
+      }
+    ]
+  },
+  {
+    "name": "Rene Busch",
+    "technologien": [
+      {
+        "name": "Power BI",
+        "letzte_verwendung": 283
+      },
+      {
+        "name": "Keras",
+        "letzte_verwendung": 282
+      },
+      {
+        "name": "Unity",
+        "letzte_verwendung": 564
+      },
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 278
+      }
+    ]
+  },
+  {
+    "name": "Ute Paulsen",
+    "technologien": [
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 44
+      },
+      {
+        "name": "Rust",
+        "letzte_verwendung": 203
+      },
+      {
+        "name": "Redis",
+        "letzte_verwendung": 421
+      },
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 477
+      },
+      {
+        "name": "GitHub",
+        "letzte_verwendung": 118
+      }
+    ]
+  },
+  {
+    "name": "Anton Fiedler",
+    "technologien": [
+      {
+        "name": "PHP",
+        "letzte_verwendung": 53
+      },
+      {
+        "name": "Azure",
+        "letzte_verwendung": 715
+      },
+      {
+        "name": "MySQL",
+        "letzte_verwendung": 190
+      },
+      {
+        "name": "Bitbucket",
+        "letzte_verwendung": 63
+      },
+      {
+        "name": "SQL",
+        "letzte_verwendung": 37
+      }
+    ]
+  },
+  {
+    "name": "Paula Seifert",
+    "technologien": [
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 427
+      },
+      {
+        "name": "Docker",
+        "letzte_verwendung": 461
+      },
+      {
+        "name": "Keras",
+        "letzte_verwendung": 130
+      },
+      {
+        "name": "Kotlin",
+        "letzte_verwendung": 158
+      }
+    ]
+  },
+  {
+    "name": "Tommy Hinz",
+    "technologien": [
+      {
+        "name": "Rust",
+        "letzte_verwendung": 666
+      }
+    ]
+  },
+  {
+    "name": "Claudia Witt",
+    "technologien": [
+      {
+        "name": "Azure",
+        "letzte_verwendung": 267
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 672
+      },
+      {
+        "name": "Power BI",
+        "letzte_verwendung": 408
+      },
+      {
+        "name": "C#",
+        "letzte_verwendung": 339
+      }
+    ]
+  },
+  {
+    "name": "Peter Otto",
+    "technologien": [
+      {
+        "name": "SQL",
+        "letzte_verwendung": 110
+      },
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 117
+      }
+    ]
+  },
+  {
+    "name": "Nadine Ludwig",
+    "technologien": [
+      {
+        "name": "SQL",
+        "letzte_verwendung": 317
+      },
+      {
+        "name": "Python",
+        "letzte_verwendung": 313
+      },
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 675
+      }
+    ]
+  },
+  {
+    "name": "Jörg Weber",
+    "technologien": [
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 571
+      },
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 224
+      }
+    ]
+  },
+  {
+    "name": "Heike Wiese",
+    "technologien": [
+      {
+        "name": "React",
+        "letzte_verwendung": 518
+      },
+      {
+        "name": "Keras",
+        "letzte_verwendung": 356
+      },
+      {
+        "name": "Scikit-learn",
+        "letzte_verwendung": 575
+      },
+      {
+        "name": "C#",
+        "letzte_verwendung": 323
+      }
+    ]
+  },
+  {
+    "name": "Bastian Roth",
+    "technologien": [
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 600
+      }
+    ]
+  },
+  {
+    "name": "Svenja Franz",
+    "technologien": [
+      {
+        "name": "PyTorch",
+        "letzte_verwendung": 323
+      },
+      {
+        "name": "SQL",
+        "letzte_verwendung": 133
+      },
+      {
+        "name": "C#",
+        "letzte_verwendung": 207
+      }
+    ]
+  },
+  {
+    "name": "Torsten Vetter",
+    "technologien": [
+      {
+        "name": "Python",
+        "letzte_verwendung": 464
+      },
+      {
+        "name": "Keras",
+        "letzte_verwendung": 335
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 541
+      },
+      {
+        "name": "Kotlin",
+        "letzte_verwendung": 538
+      },
+      {
+        "name": "Unity",
+        "letzte_verwendung": 360
+      }
+    ]
+  },
+  {
+    "name": "Christina Martin",
+    "technologien": [
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 709
+      },
+      {
+        "name": "Ansible",
+        "letzte_verwendung": 585
+      },
+      {
+        "name": "Azure",
+        "letzte_verwendung": 284
+      },
+      {
+        "name": "Keras",
+        "letzte_verwendung": 248
+      }
+    ]
+  },
+  {
+    "name": "David Meissner",
+    "technologien": [
+      {
+        "name": "PHP",
+        "letzte_verwendung": 279
+      },
+      {
+        "name": "AWS",
+        "letzte_verwendung": 582
+      },
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 603
+      },
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 9
+      },
+      {
+        "name": "NumPy",
+        "letzte_verwendung": 116
+      }
+    ]
+  },
+  {
+    "name": "Elke Nowak",
+    "technologien": [
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 626
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 212
+      },
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 256
+      }
+    ]
+  },
+  {
+    "name": "Nick Rieger",
+    "technologien": [
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 353
+      },
+      {
+        "name": "Redis",
+        "letzte_verwendung": 498
+      }
+    ]
+  },
+  {
+    "name": "Beate Behrens",
+    "technologien": [
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 24
+      },
+      {
+        "name": "Kotlin",
+        "letzte_verwendung": 364
+      },
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 268
+      }
+    ]
+  },
+  {
+    "name": "Jens Schrader",
+    "technologien": [
+      {
+        "name": "Swift",
+        "letzte_verwendung": 246
+      },
+      {
+        "name": "Azure",
+        "letzte_verwendung": 643
+      },
+      {
+        "name": "Scikit-learn",
+        "letzte_verwendung": 481
+      },
+      {
+        "name": "Redis",
+        "letzte_verwendung": 90
+      }
+    ]
+  },
+  {
+    "name": "Simone Möller",
+    "technologien": [
+      {
+        "name": "Azure",
+        "letzte_verwendung": 383
+      },
+      {
+        "name": "Docker",
+        "letzte_verwendung": 340
+      }
+    ]
+  },
+  {
+    "name": "Kevin Ostermann",
+    "technologien": [
+      {
+        "name": "AWS",
+        "letzte_verwendung": 682
+      },
+      {
+        "name": "AWS",
+        "letzte_verwendung": 641
+      }
+    ]
+  },
+  {
+    "name": "Vera Rauch",
+    "technologien": [
+      {
+        "name": "MySQL",
+        "letzte_verwendung": 259
+      },
+      {
+        "name": "Go",
+        "letzte_verwendung": 709
+      }
+    ]
+  },
+  {
+    "name": "Matthias Neumann",
+    "technologien": [
+      {
+        "name": "Docker",
+        "letzte_verwendung": 247
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 16
+      },
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 129
+      },
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 59
+      },
+      {
+        "name": "SQL",
+        "letzte_verwendung": 152
+      }
+    ]
+  },
+  {
+    "name": "Kerstin Wolters",
+    "technologien": [
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 316
+      },
+      {
+        "name": "Unity",
+        "letzte_verwendung": 586
+      },
+      {
+        "name": "Scikit-learn",
+        "letzte_verwendung": 7
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 303
+      }
+    ]
+  },
+  {
+    "name": "Eddy Krug",
+    "technologien": [
+      {
+        "name": "Ansible",
+        "letzte_verwendung": 483
+      },
+      {
+        "name": "Python",
+        "letzte_verwendung": 326
+      },
+      {
+        "name": "Python",
+        "letzte_verwendung": 408
+      }
+    ]
+  },
+  {
+    "name": "Lara Reinhardt",
+    "technologien": [
+      {
+        "name": "Redis",
+        "letzte_verwendung": 476
+      },
+      {
+        "name": "Pandas",
+        "letzte_verwendung": 69
+      },
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 209
+      },
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 298
+      }
+    ]
+  },
+  {
+    "name": "Martin Hofmann",
+    "technologien": [
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 637
+      },
+      {
+        "name": "Go",
+        "letzte_verwendung": 596
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 283
+      },
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 262
+      }
+    ]
+  },
+  {
+    "name": "Maja Große",
+    "technologien": [
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 380
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 293
+      }
+    ]
+  },
+  {
+    "name": "Oliver Neumann",
+    "technologien": [
+      {
+        "name": "Flask",
+        "letzte_verwendung": 407
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 387
+      }
+    ]
+  },
+  {
+    "name": "Nina Gärtner",
+    "technologien": [
+      {
+        "name": "Redis",
+        "letzte_verwendung": 558
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 674
+      },
+      {
+        "name": "Vue.js",
+        "letzte_verwendung": 681
+      }
+    ]
+  },
+  {
+    "name": "Tarek Scholz",
+    "technologien": [
+      {
+        "name": "Unity",
+        "letzte_verwendung": 706
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 368
+      }
+    ]
+  },
+  {
+    "name": "Meike Sand",
+    "technologien": [
+      {
+        "name": "Pandas",
+        "letzte_verwendung": 56
+      },
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 521
+      },
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 245
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 155
+      },
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 249
+      }
+    ]
+  },
+  {
+    "name": "Hannes Fricke",
+    "technologien": [
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 728
+      },
+      {
+        "name": "Keras",
+        "letzte_verwendung": 716
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 648
+      }
+    ]
+  },
+  {
+    "name": "Gabriela Schulz",
+    "technologien": [
+      {
+        "name": "Power BI",
+        "letzte_verwendung": 83
+      },
+      {
+        "name": "Power BI",
+        "letzte_verwendung": 383
+      },
+      {
+        "name": "Confluence",
+        "letzte_verwendung": 354
+      }
+    ]
+  },
+  {
+    "name": "Lars Hagen",
+    "technologien": [
+      {
+        "name": "PHP",
+        "letzte_verwendung": 96
+      }
+    ]
+  },
+  {
+    "name": "Mona Kirsch",
+    "technologien": [
+      {
+        "name": "Angular",
+        "letzte_verwendung": 641
+      }
+    ]
+  },
+  {
+    "name": "Torben Saalfeld",
+    "technologien": [
+      {
+        "name": "Pandas",
+        "letzte_verwendung": 605
+      },
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 646
+      },
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 510
+      },
+      {
+        "name": "Bitbucket",
+        "letzte_verwendung": 563
+      }
+    ]
+  },
+  {
+    "name": "Bianca Wolter",
+    "technologien": [
+      {
+        "name": "Angular",
+        "letzte_verwendung": 50
+      }
+    ]
+  },
+  {
+    "name": "Finnja Günther",
+    "technologien": [
+      {
+        "name": "Django",
+        "letzte_verwendung": 218
+      }
+    ]
+  },
+  {
+    "name": "Leo Burkhardt",
+    "technologien": [
+      {
+        "name": "GitHub",
+        "letzte_verwendung": 355
+      }
+    ]
+  },
+  {
+    "name": "Katharina Reiter",
+    "technologien": [
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 458
+      },
+      {
+        "name": "AWS",
+        "letzte_verwendung": 169
+      },
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 611
+      },
+      {
+        "name": "C#",
+        "letzte_verwendung": 617
+      }
+    ]
+  },
+  {
+    "name": "Patrick Thiel",
+    "technologien": [
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 664
+      },
+      {
+        "name": "GitHub",
+        "letzte_verwendung": 182
+      }
+    ]
+  },
+  {
+    "name": "Niklas Bachmann",
+    "technologien": [
+      {
+        "name": "Ansible",
+        "letzte_verwendung": 567
+      },
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 63
+      },
+      {
+        "name": "Scikit-learn",
+        "letzte_verwendung": 277
+      },
+      {
+        "name": "TensorFlow",
+        "letzte_verwendung": 396
+      },
+      {
+        "name": "React",
+        "letzte_verwendung": 626
+      }
+    ]
+  },
+  {
+    "name": "Victoria Weber",
+    "technologien": [
+      {
+        "name": "Azure",
+        "letzte_verwendung": 80
+      }
+    ]
+  },
+  {
+    "name": "Marvin Otto",
+    "technologien": [
+      {
+        "name": "Tableau",
+        "letzte_verwendung": 571
+      },
+      {
+        "name": "Power BI",
+        "letzte_verwendung": 49
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 557
+      },
+      {
+        "name": "AWS",
+        "letzte_verwendung": 119
+      }
+    ]
+  },
+  {
+    "name": "Theresa Berger",
+    "technologien": [
+      {
+        "name": "React",
+        "letzte_verwendung": 399
+      },
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 402
+      },
+      {
+        "name": "Rust",
+        "letzte_verwendung": 204
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 159
+      }
+    ]
+  },
+  {
+    "name": "Florin Lorenz",
+    "technologien": [
+      {
+        "name": "React",
+        "letzte_verwendung": 461
+      },
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 638
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 352
+      },
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 119
+      }
+    ]
+  },
+  {
+    "name": "Marlene Semmler",
+    "technologien": [
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 552
+      },
+      {
+        "name": "Confluence",
+        "letzte_verwendung": 367
+      },
+      {
+        "name": "PyTorch",
+        "letzte_verwendung": 523
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 721
+      }
+    ]
+  },
+  {
+    "name": "Gerrit Mayer",
+    "technologien": [
+      {
+        "name": "Azure",
+        "letzte_verwendung": 699
+      }
+    ]
+  },
+  {
+    "name": "Sina Hart",
+    "technologien": [
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 232
+      },
+      {
+        "name": "Kotlin",
+        "letzte_verwendung": 116
+      },
+      {
+        "name": "PyTorch",
+        "letzte_verwendung": 687
+      },
+      {
+        "name": "Kubernetes",
+        "letzte_verwendung": 287
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 531
+      }
+    ]
+  },
+  {
+    "name": "Gustav Schramm",
+    "technologien": [
+      {
+        "name": "Pandas",
+        "letzte_verwendung": 688
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 527
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 118
+      }
+    ]
+  },
+  {
+    "name": "Jessi Brückner",
+    "technologien": [
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 541
+      },
+      {
+        "name": "Flask",
+        "letzte_verwendung": 470
+      },
+      {
+        "name": "AWS",
+        "letzte_verwendung": 180
+      },
+      {
+        "name": "React",
+        "letzte_verwendung": 392
+      }
+    ]
+  },
+  {
+    "name": "Liam Lang",
+    "technologien": [
+      {
+        "name": "React",
+        "letzte_verwendung": 478
+      }
+    ]
+  },
+  {
+    "name": "Sandra Fuchs",
+    "technologien": [
+      {
+        "name": "React",
+        "letzte_verwendung": 730
+      },
+      {
+        "name": "C#",
+        "letzte_verwendung": 268
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 705
+      }
+    ]
+  },
+  {
+    "name": "Tom Barth",
+    "technologien": [
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 710
+      }
+    ]
+  },
+  {
+    "name": "Ilona Schwarz",
+    "technologien": [
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 191
+      },
+      {
+        "name": "GitHub",
+        "letzte_verwendung": 631
+      },
+      {
+        "name": "AWS",
+        "letzte_verwendung": 338
+      }
+    ]
+  },
+  {
+    "name": "Rico Engel",
+    "technologien": [
+      {
+        "name": "PHP",
+        "letzte_verwendung": 26
+      }
+    ]
+  },
+  {
+    "name": "Ines Fröhlich",
+    "technologien": [
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 643
+      }
+    ]
+  },
+  {
+    "name": "Kevin Heinemann",
+    "technologien": [
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 233
+      },
+      {
+        "name": "Confluence",
+        "letzte_verwendung": 469
+      },
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 52
+      },
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 569
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 220
+      }
+    ]
+  },
+  {
+    "name": "Dorit Schlüter",
+    "technologien": [
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 402
+      },
+      {
+        "name": "Angular",
+        "letzte_verwendung": 633
+      }
+    ]
+  },
+  {
+    "name": "Paul Stoll",
+    "technologien": [
+      {
+        "name": "Node.js",
+        "letzte_verwendung": 38
+      },
+      {
+        "name": "Unity",
+        "letzte_verwendung": 1
+      },
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 219
+      }
+    ]
+  },
+  {
+    "name": "Nadja Mathis",
+    "technologien": [
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 666
+      },
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 630
+      }
+    ]
+  },
+  {
+    "name": "Hendrik Vogt",
+    "technologien": [
+      {
+        "name": "TensorFlow",
+        "letzte_verwendung": 320
+      },
+      {
+        "name": "TensorFlow",
+        "letzte_verwendung": 205
+      },
+      {
+        "name": "AWS",
+        "letzte_verwendung": 31
+      },
+      {
+        "name": "Python",
+        "letzte_verwendung": 176
+      }
+    ]
+  },
+  {
+    "name": "Melina Voss",
+    "technologien": [
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 101
+      },
+      {
+        "name": "Flask",
+        "letzte_verwendung": 64
+      },
+      {
+        "name": "Flask",
+        "letzte_verwendung": 92
+      },
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 485
+      },
+      {
+        "name": "Django",
+        "letzte_verwendung": 158
+      }
+    ]
+  },
+  {
+    "name": "Marcel Vogler",
+    "technologien": [
+      {
+        "name": "Redis",
+        "letzte_verwendung": 586
+      }
+    ]
+  },
+  {
+    "name": "Jessi Nowak",
+    "technologien": [
+      {
+        "name": "Keras",
+        "letzte_verwendung": 496
+      }
+    ]
+  },
+  {
+    "name": "Martin Orth",
+    "technologien": [
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 677
+      },
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 113
+      },
+      {
+        "name": "C#",
+        "letzte_verwendung": 631
+      },
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 320
+      }
+    ]
+  },
+  {
+    "name": "Bianca Grebe",
+    "technologien": [
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 710
+      },
+      {
+        "name": "PHP",
+        "letzte_verwendung": 395
+      },
+      {
+        "name": "Flask",
+        "letzte_verwendung": 274
+      },
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 503
+      },
+      {
+        "name": "Azure",
+        "letzte_verwendung": 252
+      }
+    ]
+  },
+  {
+    "name": "Elli Haas",
+    "technologien": [
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 296
+      },
+      {
+        "name": "Redis",
+        "letzte_verwendung": 329
+      },
+      {
+        "name": "Confluence",
+        "letzte_verwendung": 331
+      }
+    ]
+  },
+  {
+    "name": "Kilian Winter",
+    "technologien": [
+      {
+        "name": "Keras",
+        "letzte_verwendung": 571
+      },
+      {
+        "name": "C#",
+        "letzte_verwendung": 331
+      },
+      {
+        "name": "Node.js",
+        "letzte_verwendung": 201
+      }
+    ]
+  },
+  {
+    "name": "Renate Bergmann",
+    "technologien": [
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 155
+      },
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 95
+      },
+      {
+        "name": "Salesforce",
+        "letzte_verwendung": 680
+      },
+      {
+        "name": "GitHub",
+        "letzte_verwendung": 491
+      },
+      {
+        "name": "Flask",
+        "letzte_verwendung": 613
+      }
+    ]
+  },
+  {
+    "name": "Philipp Ostermann",
+    "technologien": [
+      {
+        "name": "Unreal Engine",
+        "letzte_verwendung": 322
+      },
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 618
+      },
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 300
+      },
+      {
+        "name": "React",
+        "letzte_verwendung": 88
+      },
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 25
+      }
+    ]
+  },
+  {
+    "name": "Viola Raabe",
+    "technologien": [
+      {
+        "name": "Vue.js",
+        "letzte_verwendung": 130
+      },
+      {
+        "name": "Docker",
+        "letzte_verwendung": 408
+      }
+    ]
+  },
+  {
+    "name": "Kai Fröhlich",
+    "technologien": [
+      {
+        "name": "MLFlow",
+        "letzte_verwendung": 328
+      },
+      {
+        "name": "Ansible",
+        "letzte_verwendung": 452
+      },
+      {
+        "name": "Python",
+        "letzte_verwendung": 161
+      },
+      {
+        "name": "Docker",
+        "letzte_verwendung": 508
+      },
+      {
+        "name": "TensorFlow",
+        "letzte_verwendung": 508
+      }
+    ]
+  },
+  {
+    "name": "Jette Mathis",
+    "technologien": [
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 85
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 320
+      },
+      {
+        "name": "Swift",
+        "letzte_verwendung": 284
+      },
+      {
+        "name": "Confluence",
+        "letzte_verwendung": 658
+      }
+    ]
+  },
+  {
+    "name": "Luca Kügler",
+    "technologien": [
+      {
+        "name": "NumPy",
+        "letzte_verwendung": 480
+      },
+      {
+        "name": "MongoDB",
+        "letzte_verwendung": 728
+      }
+    ]
+  },
+  {
+    "name": "Angelina Klee",
+    "technologien": [
+      {
+        "name": "Swift",
+        "letzte_verwendung": 682
+      },
+      {
+        "name": "Terraform",
+        "letzte_verwendung": 186
+      }
+    ]
+  },
+  {
+    "name": "Andreas Peters",
+    "technologien": [
+      {
+        "name": "Git",
+        "letzte_verwendung": 728
+      }
+    ]
+  },
+  {
+    "name": "Aileen Reuter",
+    "technologien": [
+      {
+        "name": "Docker",
+        "letzte_verwendung": 657
+      }
+    ]
+  },
+  {
+    "name": "Harald Voigt",
+    "technologien": [
+      {
+        "name": "Angular",
+        "letzte_verwendung": 219
+      },
+      {
+        "name": "NumPy",
+        "letzte_verwendung": 306
+      },
+      {
+        "name": "React",
+        "letzte_verwendung": 540
+      },
+      {
+        "name": "Confluence",
+        "letzte_verwendung": 356
+      },
+      {
+        "name": "Git",
+        "letzte_verwendung": 466
+      }
+    ]
+  },
+  {
+    "name": "Saskia Jansen",
+    "technologien": [
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 611
+      },
+      {
+        "name": "Go",
+        "letzte_verwendung": 349
+      },
+      {
+        "name": "Unity",
+        "letzte_verwendung": 434
+      },
+      {
+        "name": "Tableau",
+        "letzte_verwendung": 218
+      }
+    ]
+  },
+  {
+    "name": "Ruben Korte",
+    "technologien": [
+      {
+        "name": "Swift",
+        "letzte_verwendung": 702
+      }
+    ]
+  },
+  {
+    "name": "Stefanie Renner",
+    "technologien": [
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 418
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 417
+      },
+      {
+        "name": "Ruby",
+        "letzte_verwendung": 423
+      },
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 387
+      }
+    ]
+  },
+  {
+    "name": "Karsten Bach",
+    "technologien": [
+      {
+        "name": "NumPy",
+        "letzte_verwendung": 529
+      },
+      {
+        "name": "Azure",
+        "letzte_verwendung": 40
+      },
+      {
+        "name": "JavaScript",
+        "letzte_verwendung": 111
+      },
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 305
+      },
+      {
+        "name": "Power BI",
+        "letzte_verwendung": 162
+      }
+    ]
+  },
+  {
+    "name": "Melanie Stahl",
+    "technologien": [
+      {
+        "name": "C#",
+        "letzte_verwendung": 61
+      },
+      {
+        "name": "Node.js",
+        "letzte_verwendung": 177
+      },
+      {
+        "name": "Pandas",
+        "letzte_verwendung": 418
+      }
+    ]
+  },
+  {
+    "name": "Jannick Konrad",
+    "technologien": [
+      {
+        "name": "TensorFlow",
+        "letzte_verwendung": 583
+      },
+      {
+        "name": "Tableau",
+        "letzte_verwendung": 204
+      },
+      {
+        "name": "PyTorch",
+        "letzte_verwendung": 537
+      },
+      {
+        "name": "Confluence",
+        "letzte_verwendung": 152
+      },
+      {
+        "name": "Go",
+        "letzte_verwendung": 127
+      }
+    ]
+  },
+  {
+    "name": "Dorothee Hermes",
+    "technologien": [
+      {
+        "name": "Kubernetes",
+        "letzte_verwendung": 161
+      },
+      {
+        "name": "Confluence",
+        "letzte_verwendung": 619
+      },
+      {
+        "name": "PHP",
+        "letzte_verwendung": 704
+      }
+    ]
+  },
+  {
+    "name": "Mika Dittmann",
+    "technologien": [
+      {
+        "name": "Google Cloud",
+        "letzte_verwendung": 252
+      }
+    ]
+  },
+  {
+    "name": "Mandy Rose",
+    "technologien": [
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 570
+      },
+      {
+        "name": "PHP",
+        "letzte_verwendung": 277
+      },
+      {
+        "name": "Java",
+        "letzte_verwendung": 337
+      },
+      {
+        "name": "Vue.js",
+        "letzte_verwendung": 598
+      },
+      {
+        "name": "Pandas",
+        "letzte_verwendung": 594
+      }
+    ]
+  },
+  {
+    "name": "Lenny Herbst",
+    "technologien": [
+      {
+        "name": "Confluence",
+        "letzte_verwendung": 215
+      }
+    ]
+  },
+  {
+    "name": "Sigrid Köster",
+    "technologien": [
+      {
+        "name": "Flask",
+        "letzte_verwendung": 640
+      },
+      {
+        "name": "Redis",
+        "letzte_verwendung": 616
+      },
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 238
+      }
+    ]
+  },
+  {
+    "name": "Corrina Brück",
+    "technologien": [
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 601
+      }
+    ]
+  },
+  {
+    "name": "Tony Frei",
+    "technologien": [
+      {
+        "name": "PostgreSQL",
+        "letzte_verwendung": 553
+      },
+      {
+        "name": "Redis",
+        "letzte_verwendung": 583
+      },
+      {
+        "name": "Bitbucket",
+        "letzte_verwendung": 547
+      }
+    ]
+  },
+  {
+    "name": "Alina Uhlig",
+    "technologien": [
+      {
+        "name": "Java",
+        "letzte_verwendung": 262
+      },
+      {
+        "name": "JIRA",
+        "letzte_verwendung": 110
+      }
+    ]
+  },
+  {
+    "name": "Benny Scholz",
+    "technologien": [
+      {
+        "name": "Express.js",
+        "letzte_verwendung": 224
+      },
+      {
+        "name": "TypeScript",
+        "letzte_verwendung": 271
+      }
+    ]
+  },
+  {
+    "name": "Inga Bader",
+    "technologien": [
+      {
+        "name": "SQL",
+        "letzte_verwendung": 225
+      },
+      {
+        "name": "Jenkins",
+        "letzte_verwendung": 644
+      },
+      {
+        "name": "Kubernetes",
+        "letzte_verwendung": 638
+      }
+    ]
+  }
+]
