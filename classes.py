@@ -1,4 +1,5 @@
 import json
+from typing import List
 
 class TechnologieWissen:
     def __init__(self, name: str, letzte_verwendung: int):
@@ -9,7 +10,7 @@ class TechnologieWissen:
         return f"{self.name}: vor {self.letzte_verwendung} Tagen"
 
 class MitarbeiterSkills:
-    def __init__(self, name: str, technologien: list[TechnologieWissen]):
+    def __init__(self, name: str, technologien: List[TechnologieWissen]):
         self.name = name
         self.technologien = technologien
 
@@ -26,27 +27,25 @@ class MitarbeiterSkills:
         technologien_str = ", ".join([t.name for t in self.technologien])
         return f"{self.name} ({technologien_str})"
     
-    def to_embedding(self):
-        # Konvertiere die Technologien in eine Liste von Strings
+    def to_embedding(self) -> str:
+        """Konvertiert die Technologien in einen Fließtext für das Embedding."""
         technologien_str = [t.name for t in self.technologien]
-        # Erstelle ein Embedding aus den Technologien
         return " ".join(technologien_str)
-    
-def get_test_data() -> list[MitarbeiterSkills]:
+
+    @staticmethod
+    def from_dict(data: dict) -> 'MitarbeiterSkills':
+        name = data.get('name', '')
+        technologien = [
+            TechnologieWissen(tech.get('name', ''), tech.get('letzte_verwendung', 0))
+            for tech in data.get('technologien', [])
+        ]
+        return MitarbeiterSkills(name, technologien)
+
+def get_test_data() -> List[MitarbeiterSkills]:
     """
     Liest die Daten aus der Datei 'mitarbeiter_skills.json' und gibt eine Liste von MitarbeiterSkills-Objekten zurück.
     """
     with open('mitarbeiter_skills.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
-    mitarbeiter_list = []
-    for mitarbeiter in data:
-        name = mitarbeiter.get('name', '')
-        technologien = []
-        for tech in mitarbeiter.get('technologien', []):
-            tech_name = tech.get('name', None)
-            letzte_verwendung = tech.get('letzte_verwendung', None)
-            if tech_name is not None and letzte_verwendung is not None:
-                technologien.append(TechnologieWissen(tech_name, letzte_verwendung))
-        mitarbeiter_list.append(MitarbeiterSkills(name, technologien))
-    return mitarbeiter_list
+    return [MitarbeiterSkills.from_dict(mitarbeiter) for mitarbeiter in data]
 
